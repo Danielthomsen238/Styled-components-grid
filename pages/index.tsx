@@ -1,9 +1,7 @@
+import { PrimaryTemplate } from "../styles/PageTemplates/Primary/Primary";
+
 const Home = () => {
-  return (
-    <>
-      <h1>Hello from next</h1>
-    </>
-  );
+  return <PrimaryTemplate />;
 };
 
 export default Home;
