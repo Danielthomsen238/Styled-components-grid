@@ -1,4 +1,4 @@
-#Styled Components Grid templates made with typescript
+# Styled Components Grid templates made with typescript
 
 ## Getting Started
 
